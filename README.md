@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <head>
 <style type = "text/css">
@@ -67,6 +68,7 @@ p
             E-MAIL ID:THANKAVI2001@GMAIL.COM</p>
 </body>
 </html>
+```
 
 
 ## OUTPUT
